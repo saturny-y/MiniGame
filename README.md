@@ -4,7 +4,7 @@
   _<sub>Dark Forest</sub>_
 </h1>
 
->[!NOTE}
+>[!NOTE]
 > O minigame está incompleto :c , falta algumas mecânicas, além das animações, inimigos e cenário. Continuo testando certos códigos, ainda é um caso de estudo. Falta bastante coisa mesmo... 🪐
 
 ---
